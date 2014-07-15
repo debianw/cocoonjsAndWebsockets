@@ -1,0 +1,15 @@
+# view res/layout/webviewchromium_color_picker_dialog_content.xml #generated:13
+-keep class com.android.org.chromium.ui.ColorPickerAdvanced { <init>(...); }
+
+# view res/layout/webviewchromium_color_picker_dialog_content.xml #generated:28
+-keep class com.android.org.chromium.ui.ColorPickerSimple { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.hello.websockets.HelloWebsockets { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class org.chromium.content.app.SandboxedProcessService0 { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class org.chromium.content.app.SandboxedProcessService1 { <init>(...); }
+
